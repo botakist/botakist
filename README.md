@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @botakist
-- 👀 I’m interested in being environmentally friendly 👀
-- 🌱 I’m currently learning/working on DevOps, NgRx, Java, automated testing!
+- 👋 Hi, I'm @botakist
+- 👀 I'm interested in being environmentally friendly 👀 or at least, trying to make the world a better place by a little.
+- 🌱 I'm currently learning/working on DevOps, NgRx, Java, automated testing!
 - ✉️ email: yxwong2608@gmail.com
 
 <!---
